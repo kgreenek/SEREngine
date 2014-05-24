@@ -1,0 +1,5 @@
+C:\Users\Kevin\Projects\SER_Engine\SER_Engine_DLL_Dev\SpeechEmotionRecognition\SpeechEmotionRecognition\bin\Release\SpeechEmotionRecognition.dll
+C:\Users\Kevin\Projects\SER_Engine\SER_Engine_DLL_Dev\SpeechEmotionRecognition\SpeechEmotionRecognition\bin\Release\SpeechEmotionRecognition.pdb
+C:\Users\Kevin\Projects\SER_Engine\SER_Engine_DLL_Dev\SpeechEmotionRecognition\SpeechEmotionRecognition\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Kevin\Projects\SER_Engine\SER_Engine_DLL_Dev\SpeechEmotionRecognition\SpeechEmotionRecognition\obj\Release\SpeechEmotionRecognition.dll
+C:\Users\Kevin\Projects\SER_Engine\SER_Engine_DLL_Dev\SpeechEmotionRecognition\SpeechEmotionRecognition\obj\Release\SpeechEmotionRecognition.pdb
